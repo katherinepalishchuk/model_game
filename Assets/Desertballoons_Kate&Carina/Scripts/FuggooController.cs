@@ -11,8 +11,12 @@ public class FuggooController : MonoBehaviour
 
     }
 
+<<<<<<< Updated upstream
     // Update is called once per frame
     void Update()
+=======
+    private void OnCollisionEnter(Collision other)
+>>>>>>> Stashed changes
     {
         void OnCollisionEnter()
         {
